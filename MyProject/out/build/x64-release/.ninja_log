@@ -1,0 +1,5 @@
+# ninja log v5
+7	115	7730615081613291	CMakeFiles/mylib.dir/src/utils.cpp.obj	32a02477afccdf02
+117	167	7730615082082388	mylib.lib	b97c2b3a50bee93a
+11	698	7730615087238341	CMakeFiles/MyProject.dir/src/main.cpp.obj	a595cb0510e3216c
+698	880	7730615089113602	MyProject.exe	8a9808264cc14685

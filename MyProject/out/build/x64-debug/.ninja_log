@@ -1,0 +1,8 @@
+# ninja log v5
+3	1706	7730567840055209	CMakeFiles/MyProject.dir/MyProject.cpp.obj	87daccde8d504989
+3	73	7730588564269781	CMakeFiles/mylib.dir/src/utils.cpp.obj	dd4a20dc0d6bdb30
+74	193	7730588565519756	mylib.lib	b97c2b3a50bee93a
+9	678	7730588570364509	CMakeFiles/MyProject.dir/src/main.cpp.obj	4178d50171681517
+678	1095	7730588574269632	MyProject.exe	82d1397670d709ad
+3	786	7730590418959697	CMakeFiles/MyTests.dir/tests/test_main.cpp.obj	2fea1c403336d8e0
+787	1248	7730590423175914	MyTests.exe	58f25aece515a964

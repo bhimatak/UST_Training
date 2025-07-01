@@ -1,0 +1,6 @@
+C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release/CMakeFiles/mylib.dir
+C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release/CMakeFiles/MyProject.dir
+C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release/CMakeFiles/MyTests.dir
+C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release/CMakeFiles/test.dir
+C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release/CMakeFiles/rebuild_cache.dir

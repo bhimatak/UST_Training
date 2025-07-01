@@ -16,7 +16,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "out/build/x64-release/CMakeFiles/3.28.0-msvc1/CMakeSystem.cmake"
+			"path" : "out/build/x64-debug/CMakeFiles/3.28.0-msvc1/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -280,7 +280,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "out/build/x64-release/CMakeFiles/3.28.0-msvc1/CMakeCCompiler.cmake"
+			"path" : "out/build/x64-debug/CMakeFiles/3.28.0-msvc1/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -529,7 +529,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "out/build/x64-release/CMakeFiles/3.28.0-msvc1/CMakeCXXCompiler.cmake"
+			"path" : "out/build/x64-debug/CMakeFiles/3.28.0-msvc1/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -603,7 +603,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "out/build/x64-release/CMakeFiles/3.28.0-msvc1/CMakeRCCompiler.cmake"
+			"path" : "out/build/x64-debug/CMakeFiles/3.28.0-msvc1/CMakeRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -677,7 +677,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "out/build/x64-release/CMakeFiles/3.28.0-msvc1/CMakeCCompiler.cmake"
+			"path" : "out/build/x64-debug/CMakeFiles/3.28.0-msvc1/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -776,14 +776,14 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "out/build/x64-release/CMakeFiles/3.28.0-msvc1/CMakeCXXCompiler.cmake"
+			"path" : "out/build/x64-debug/CMakeFiles/3.28.0-msvc1/CMakeCXXCompiler.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release",
-		"source" : "C:/Users/Administrator/Desktop/PrjTest/MyProject"
+		"build" : "C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug",
+		"source" : "C:/Users/Administrator/Desktop/MyProject"
 	},
 	"version" : 
 	{

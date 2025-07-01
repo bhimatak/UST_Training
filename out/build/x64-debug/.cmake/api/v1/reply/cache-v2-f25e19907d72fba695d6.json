@@ -27,7 +27,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Release"
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release"
+			"value" : "c:/Users/Administrator/Desktop/MyProject/out/build/x64-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -467,7 +467,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -527,7 +527,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Administrator/Desktop/PrjTest/MyProject"
+			"value" : "C:/Users/Administrator/Desktop/MyProject"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/Administrator/Desktop/PrjTest/MyProject/out/install/x64-release"
+			"value" : "C:/Users/Administrator/Desktop/MyProject/out/install/x64-debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1075,7 +1075,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Administrator/Desktop/PrjTest/MyProject/out/build/x64-release"
+			"value" : "C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug"
 		},
 		{
 			"name" : "MyProject_IS_TOP_LEVEL",
@@ -1099,7 +1099,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Administrator/Desktop/PrjTest/MyProject"
+			"value" : "C:/Users/Administrator/Desktop/MyProject"
 		}
 	],
 	"kind" : "cache",

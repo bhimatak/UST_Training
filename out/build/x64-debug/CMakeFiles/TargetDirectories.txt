@@ -1,0 +1,6 @@
+C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug/CMakeFiles/mylib.dir
+C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug/CMakeFiles/MyProject.dir
+C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug/CMakeFiles/MyTests.dir
+C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug/CMakeFiles/test.dir
+C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/MyProject/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
